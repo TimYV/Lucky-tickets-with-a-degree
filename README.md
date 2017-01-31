@@ -1,2 +1,2 @@
 # Lucky-tickets-with-a-degree
-Find all solutions for lucky tickes so that the degree of sum of digits (digits of left (right) half-part of a ticket number) is a ticket number. 
+Составить программу поиска счастливых билетов (шестизначные числа) у которых сумма первых (последних) трех цифр, будучи возведенной в какую-либо степень, равна номеру счастливого билета.
